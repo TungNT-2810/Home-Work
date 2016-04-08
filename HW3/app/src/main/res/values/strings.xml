@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string-array name="birthPlace">
+        <item>Bình Định</item>
+        <item>Cao Bằng</item>
+        <item>Cần Thơ</item>
+        <item>Đà Nẵng</item>
+        <item>Hải Dương</item>
+        <item>Hải Phòng</item>
+        <item>Hà Nội</item>
+        <item>Thái Bình</item>
+        <item>TP HCM</item>
+    </string-array>
+</resources>
