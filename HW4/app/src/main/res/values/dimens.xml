@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="close_button_size">60dp</dimen>
+    <dimen name="close_text_size">40sp</dimen>
+    <dimen name="green_left">100dp</dimen>
+    <dimen name="green_btm">200dp</dimen>
+    <dimen name="blue_right">50dp</dimen>
+    <dimen name="blue_top">100dp</dimen>
+    <dimen name="blue_btm">100dp</dimen>
+    <dimen name="blue_left">50dp</dimen>
+    <dimen name="red_right">100dp</dimen>
+    <dimen name="red_top">200dp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HW4</string>
+    <string name="text_close">X</string>
+    <string name="show_all">Show</string>
+    <string name="hide_all">Hide</string>
+</resources>
